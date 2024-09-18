@@ -1,0 +1,4 @@
+venv
+# Ignorar arquivos executáveis
+*.exe
+*.pkg
