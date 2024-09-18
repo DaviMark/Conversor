@@ -12,6 +12,10 @@ O Conversor de Arquivos é um aplicativo Flask que permite converter arquivos en
 O aplicativo é fácil de usar e fornece uma interface web simples para upload e conversão de arquivos.
 
 ## Estrutura do Projeto
+/seu_projeto/
+    ├── conv.py
+    └── templates/
+        └── index.html
 
 
 ## Requisitos
